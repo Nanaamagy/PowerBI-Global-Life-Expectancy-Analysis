@@ -56,9 +56,35 @@ Connect socio-economic context (GDP, expenditure, income composition) to health 
 ## Data Analysis & Visualization
 
 <img width="2637" height="1487" alt="Life Expectancy" src="https://github.com/user-attachments/assets/3310be0c-97cf-4470-845d-8bce262edd0a" />
+
+Life expectancy rises steadily to 71.4 years by 2015 after a dip in the early 2000s.
+
+Infant deaths (Top 6): India (~14.0K), Nigeria (5.2K), China (4.6K), Pakistan (4.4K), Indonesia (2.3K), Bangladesh (1.7K).
+
+Status mix: About 85.8% of observations are from developing contexts
+
 <img width="2627" height="1490" alt="Health Outcome" src="https://github.com/user-attachments/assets/729810ff-1f59-490c-939d-b19b11d79c4d" />
+
+Ranks countries by under-5 mortality, shows immunization distribution (Polio, HepB, Measles), tracks adult mortality over time, and lists top life-expectancy countries
+Under-5 mortality (Top ranks): India (18.5K) and Nigeria (8.3K) lead the global burden.
+
+Immunization mix: Polio ≈ 83.6%, HepB ≈ 8.6%, Measles ≈ 7.9% of recorded immunization cases.
+
+Adult mortality peaks in the late 2000s, then declines into the 2010s.
+
+Highest life expectancy (sample): Ireland (83.44), Canada (82.23), France (82.21), Italy (82.15), Spain (82.02).
+
 <img width="2620" height="1522" alt="Socio-economic" src="https://github.com/user-attachments/assets/a8a3d15b-208f-4e60-83cb-54998ca95f09" />
 
+Connects macroeconomics to health: global GDP trend, total health expenditure by country, and income composition by development status.
+
+GDP climbs through ~2012, then softens slightly.
+
+Total health expenditure (highest shown): Afghanistan ($132.0), Maldives ($123.6), Bhutan ($80.2), Nepal ($72.0), India (~$47.9).
+
+Income composition: ~58.4% developing vs. 41.6% developed.
+
+Summary
 Global Life Expectancy: After an early-2000s dip, average life expectancy rises steadily to 71.4 years by 2015.
 
 Mortality & Burden:
