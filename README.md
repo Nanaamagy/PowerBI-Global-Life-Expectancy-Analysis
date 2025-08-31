@@ -85,6 +85,7 @@ Total health expenditure (highest shown): Afghanistan ($132.0), Maldives ($123.6
 Income composition: ~58.4% developing vs. 41.6% developed.
 
 Summary
+
 Global Life Expectancy: After an early-2000s dip, average life expectancy rises steadily to 71.4 years by 2015.
 
 Mortality & Burden:
