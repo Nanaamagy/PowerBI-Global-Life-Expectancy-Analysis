@@ -15,15 +15,15 @@
 
 [Recommendations](#Recommendations)
 
-## Project Overview
+## 📌Project Overview
 
 A Power BI exploration of global health and socio-economic indicators (2000–2015) to understand how mortality, immunization, and economic context relate to life expectancy across countries.
 
-## Data Source
+## 📊Data Source
 
 Data was sourced from Kaggle
 
-## Tools
+## 🛠Tools
 
 Power BI (data modeling, DAX measures, interactive visuals).
 
@@ -39,11 +39,11 @@ Created DAX measures (e.g., Total Adult Mortality, Avg. Life Expectancy, % by St
 
 Added slicers (Country, Year/Status) and tooltips; applied consistent typography and color.
 
-## Skills Demonstrated
+## 🧠Skills Demonstrated
 
 Data transformation • Data processing • Data analysis • Visualization • Critical thinking • Problem-solving.
 
-## Objectives
+## 🎯Objectives
 
 Track life expectancy trends over time.
 
@@ -55,7 +55,7 @@ Connect socio-economic context (GDP, expenditure, income composition) to health 
 
 ## Data Analysis & Visualization
 
-<img width="2637" height="1487" alt="Life Expectancy" src="https://github.com/user-attachments/assets/3310be0c-97cf-4470-845d-8bce262edd0a" />
+<img width="2635" height="1490" alt="image" src="https://github.com/user-attachments/assets/53a53da3-0348-4df2-bf20-3a05bd6cc4ae" />
 
 Life expectancy rises steadily to 71.4 years by 2015 after a dip in the early 2000s.
 
@@ -66,6 +66,7 @@ Status mix: About 85.8% of observations are from developing contexts
 <img width="2627" height="1490" alt="Health Outcome" src="https://github.com/user-attachments/assets/729810ff-1f59-490c-939d-b19b11d79c4d" />
 
 Ranks countries by under-5 mortality, shows immunization distribution (Polio, HepB, Measles), tracks adult mortality over time, and lists top life-expectancy countries
+
 Under-5 mortality (Top ranks): India (18.5K) and Nigeria (8.3K) lead the global burden.
 
 Immunization mix: Polio ≈ 83.6%, HepB ≈ 8.6%, Measles ≈ 7.9% of recorded immunization cases.
@@ -120,7 +121,7 @@ Context matters: Countries classed as developing represent most observations and
 
 Economic linkage: Periods of rising GDP coincide with gradual gains in life expectancy, suggesting macro-economic tailwinds for health—though not uniformly.
 
-## Recommendations
+## ✅Recommendations
 
 Target hotspots: Prioritize high-burden countries (e.g., India, Nigeria, Pakistan) with integrated maternal/child health interventions.
 
